@@ -22,7 +22,7 @@
 
 下面是两个真实范例，可参考。
 
-- [Redux 手册](http://redux.js.org/index.html)
+- [Redux 手册](https://redux.js.org/introduction/getting-started)
 - [Atom 手册](http://flight-manual.atom.io/)
 
 ## 文件名
@@ -32,9 +32,9 @@
 文件名必须使用半角字符，不得使用全角字符。这也意味着，中文不能用于文件名。
 
 ```
-错误： 名词解释.md
+错误：名词解释.md
 
-正确： glossary.md
+正确：glossary.md
 ```
 
 文件名建议只使用小写字母，不使用大写字母。
